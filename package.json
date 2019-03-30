@@ -1,5 +1,5 @@
 {
-  "name": "confusion",
+  "name": "conFusion",
   "version": "1.0.0",
   "description": "This is a website for Ristorante Con Fusion",
   "main": "index.html",
@@ -8,13 +8,17 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wode-tech/Bootstrap4.git"
+  },
+  "author": "wode tech",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.4.0"
   },
   "dependencies": {
-    "bootstrap": "^3.4.1",
+    "bootstrap": "^4.0.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
   }
