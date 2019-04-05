@@ -1,0 +1,125 @@
+.body {
+  padding: 0px 0px 0px 0px;
+  z-index: 0;
+}
+
+.navbar-dark {
+  background-color: black;
+  padding: 0px 5px 0px 5px;
+}
+
+.navbar-nav {
+  color: rgb(255, 255, 255);
+}
+
+.navbar-nav .nav-item {
+  padding: 0px 10px 0px 10px;
+  align-items: center;
+}
+
+.navbar #wode-logo {
+  height: 50px;
+  width: 75px
+}
+
+.navbar-nav .nav-item .nav-link {
+  color: rgb(248, 248, 248);
+}
+
+.navbar-nav #login {
+  height: 30px;
+  width: 30px;
+}
+
+.navbar-nav .nav-item .nav-link:hover,
+.navbar-nav .nav-item .nav-link:focus {
+  color: rgb(160, 148, 148);
+}
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 0px 0px 0px 0px;
+  background-color: rgb(25, 25, 26);
+  color: floralwhite;
+}
+
+.carousel-item {
+  height: 550px;
+  padding: 80px 0px 0px 20px;
+}
+
+.carousel-item img {
+    margin: 0px;
+    min-height: 250px;
+    min-width: 420px;
+}
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    color: floralwhite;
+}
+
+.container {
+  margin: 0px;
+  padding: 0px 100px 0px 100px;
+  color: rgb(160, 148, 148);
+}
+
+.row-header {
+    margin: 0px auto;
+    padding: 0px auto;
+}
+
+.row-content {
+    margin: 0px auto;
+    padding: 0px 0px 0px 0px;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+.footer {
+    background-color: rgb(21, 20, 22);
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.address {
+    font-size: 80%;
+    margin: 0px;
+    color: #eeeaea;
+}
+
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+
+  /* Modal Content/Box */
+  .modal-header {
+    background-color: rgb(80, 45, 141);
+  }
+
+  .close {
+    color: #aaa;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: rgb(236, 231, 231);
+  }
+
+  .modal-body {
+    background-color: rgb(241, 240, 243);
+  }
+
+  .modal-title {
+    color: white;
+  }
+  
+
